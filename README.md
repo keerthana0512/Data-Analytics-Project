@@ -8,9 +8,9 @@ This project, "Used Car Market Analysis," leverages powerful Python libraries su
    - Data Loading and Initial Exploration
 2. **Loading the dataset into a DataFrame.**
    - Displaying the first few rows and basic information about the dataset.
-3. **Data Cleaning and Manipulation**
+3. **Data Cleaning**
    - Handling missing values, duplicates, and filtering the data.
-4. **Data Sorting, Searching, and Validation**
+4. **Data Sorting and Validation**
    - Sorting the data based on specific columns.
    - Searching for specific information within the dataset.
 5. **Data Visualization**
