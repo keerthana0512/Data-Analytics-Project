@@ -29,7 +29,7 @@ Data cleaning and manipulation techniques are applied to prepare the dataset for
 The dataset undergoes sorting, searching, and validation to extract relevant information and ensure data integrity. This section covers sorting the data by features like price and kilometers driven, searching for specific car models or brands, and validating the consistency and accuracy of the dataset entries.
 
 ## Data Visualization
-Visualizations are created using Matplotlib and Seaborn to explore various aspects of the used car market. This includes generating plots such as histograms for price distributions, line plots for price trends over time, and box plots to compare the price distributions across different fuel types.
+Visualizations are created using Matplotlib to explore various aspects of the used car market. This includes generating plots such as histograms for price distributions, line plots for price trends over time, and box plots to compare the price distributions across different fuel types.
 
 ## Conclusion
 The project concludes by summarizing the key findings and insights derived from the analysis of the CarDekho dataset. It emphasizes the role of data-driven approaches in understanding the dynamics of the used car market in India. The conclusion highlights how these insights can inform both buyers and sellers, potentially influencing market practices and contributing to more informed policy-making in the automotive sector.
